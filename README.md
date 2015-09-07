@@ -5,13 +5,13 @@
 Add to determining xhr property to request object of hapi.
 
 ### install
-```
+```sh
 npm install hapi-xhr
 ```
 
 ### Usage
 
-```
+```javascript
 server.route({
   method: 'GET',
   path: '/test',
