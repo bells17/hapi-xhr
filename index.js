@@ -10,6 +10,6 @@ exports.register = function (server, options, next) {
 
 exports.register.attributes = {
   name: 'xhr',
-  version: '1.0.0',
+  version: '1.0.2',
   pkg: require('./package.json')
 };
